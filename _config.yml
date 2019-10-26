@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Audentes fortuna iuvat"
   location         : "Facultad de Educación, <br> Universidad de Murcia, Spain"
-  employer         : "https://www.um.es/"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "<a href="https://www.um.es/">https://www.um.es/</a>"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=NSRkDa8AAAAJ&hl=es"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
