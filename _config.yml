@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Antonio Maurandi López PhD"
+  name             : "Antonio Maurandi López"
   avatar           : "profile.png"
-  bio              : "Prof. Contratado Doctor, Área de Didáctica de la Matemática.<br> Analista de Datos"
+  bio              : "Prof. Contratado Doctor, <br> Área de Didáctica de la Matemática.<br> Analista de Datos"
 #  location         : "Location"
-  employer         :  "Faculty of Education <br> University of Murcia, Spain"
+  employer         :  "Facultad de Educación <br> Universidad de Murcia, España"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=NSRkDa8AAAAJ&hl=es"
   email            : amaurandi@um.es
