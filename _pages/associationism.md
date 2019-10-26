@@ -1,10 +1,10 @@
 ---
-permalink: /associationism/
+layout: archive
 title: "associationism"
+permalink: /associationism/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /associationism.html
+redirect_from:
+  - /resume
 ---
 
 hola
