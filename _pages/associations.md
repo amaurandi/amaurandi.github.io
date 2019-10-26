@@ -1,3 +1,13 @@
+---
+permalink: /associationism/
+title: "Associationism"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /associationism.html
+---
+
+
 
 ## Actividad en asociaciones no gubernamentales
 
