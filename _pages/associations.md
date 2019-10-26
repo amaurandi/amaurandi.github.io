@@ -19,7 +19,7 @@ redirect_from:
 
 -`2018-sd` Fundación Agua de Coco, Socio. Agua de Coco es una fundación que lleva desde 1994 dedicándose a la cooperación internacional y desde el 2018 a la sensibilización y educación al desarrollo. Lema: La educación como motor de desarrollo, <http://aguadecoco.org/>.
 
--` 2017` AlVelAl, AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.
+-`2017` AlVelAl, AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.
 
 - `2011-2013` Comunidad R-Hispano, La asociación de usuarios de R de España, <http://r-es.org/>.
 
@@ -31,3 +31,11 @@ redirect_from:
 
 - `2011-2013` Comunidad R-Hispano, Vicepresidmete de la asociación Comunidad R-Hispano: La asociación de usuarios de R de España, <http://r-es.org/>.
 - `1998` ASEMAT, Miembro fundador de la ASEMAT Junior Empresa, Asociación de Estadística y Matemáticas, <www.um.es/asemat/>.
+
+## Otras asociaciones
+
+- `2012` Grupo de Investigación, Inclusión Social, Educación y Territorio (E051-09).
+- `2016` GIDMUR, Grupo de innovación docente multidisciplinar de la Universidad de Murcia, Resolución rectoral: R-622/2016 .
+- `2017` **Centro de Estudios sobre la Memoria Educativa**, <https://www.um.es/web/ceme/>. Universidad de Murcia
+- `2012` **Miembro del Centro de Estudios de Cooperación al Desarrollo**, Universidad de Murcia <https://www.um.es/web/cecd/>.
+- `2017` **Miembro del Centro de Estudios de las Mujeres y de Género de la Universidad de Murcia**, Universidad de Murcia <https://www.um.es/web/unidad-igualdad>
