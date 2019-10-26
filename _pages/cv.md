@@ -46,7 +46,7 @@ Work experience
 Skills
 ======
 * Programación: R, Python, Delphy, Java
-* Git, Markdown, \LaTeX, Pandoc, awk
+* Git, Markdown, LaTeX, Pandoc, awk
 * Estadística: R, Shiny, IBM SPSS, GraphPad prism, Minitab 
 * GNU/Linux: Xubuntu, SUSE, RedHat
 * Idiomas: Inglés (B2.3)
