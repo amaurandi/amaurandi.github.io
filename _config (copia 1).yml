@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Antonio Maurandi López"
   avatar           : "profile.png"
-  bio              : "Bla bla bla"
-#  location         : "Location"
-  employer         :  "University of Murcia, Spain"
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Audentes fortuna iuvat"
+  location         : "Facultad de Educación, <br> Universidad de Murcia, Spain"
+#  employer         : "<a href="https://www.um.es/">https://www.um.es/</a>"
+#  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=NSRkDa8AAAAJ&hl=es"
-  email            : amaurandi@um.es
-  researchgate     :  #https://www.researchgate.net/profile/yourprofile"
+  email            :  amaurandi@um.es
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-#  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "antonio-maurandi-9224175"
   orcid            : "https://orcid.org/0000-0002-4292-8312"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-#  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -309,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-cayman
