@@ -40,7 +40,8 @@ Work experience
 * `2012–9/2017`: **Profesor Asociado**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia. Acreditado como profesor Ayudante Doctor por la ANECA (17/2/2017).
 * `2003–2005`: **Técnico de Análisis y Planificación del a Información**. Coordinador del Departamento de Base de Datos y Estadística, RM-112. Dirección General de Seguridad Ciudadana y Emergencias, Tissat S.A, Murcia.
   * Consultor tecnológico de base de datos. Oracle DBA. Tareas: Análisis de Datos y Desarrollo de Estadísticas. Especificaciones y análisis de aplicaciones con el cliente. Admon y desarrollo de ORACLE. Data Mining, DataWarehousing. Explotación y admon de Sybase, Interbase. Bajo entornos Linux, Win NT-2000 y Unix. Procesamiento de datos mediante Delphi, JAVA y los paquetes estadísticos SPSS, R.
-
+* `2001–2002` **Programador**, Falk Medizinenische Datenverarbeitung, Lübeck, Alemania. 
+  * Beca Leonardo da Vinci. Paquetes estadísticos para proceso de datos médicos. Programador Objetos. Herramientas utilizadas: Interbase, Delphi, S.O: Desarrollo de elementos de Programación para el Sector Médico (Apps de diagnostico médico, Gestión de expedientes y Explotación estadística de datos)
 
 Skills
 ======
