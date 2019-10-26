@@ -25,14 +25,11 @@ Education
 Work experience
 ======
 * `10/2018–s.d.` **Profesor Contratado Doctor**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia.
-  * `1/2019`: 1<sup>er</sup> sexenio de investigación (CNEAI), tramo [2011,2018].
-  * `7/2018–s.d.` Secretario del Departamento Didáctica de las Ciencias Matemáticas y Sociales.
+#  * `1/2019`: 1<sup>er</sup> sexenio de investigación (CNEAI), tramo [2011,2018].
+#  * `7/2018–s.d.` Secretario del Departamento Didáctica de las Ciencias Matemáticas y Sociales.
 * `9/2017-10/2018`  **Profesor Ayudante Doctor**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia. Acreditado por la ANECA como profesor contratado doctor y profesor de universidad privada (7/6/2018). 
 * `2005–9/2017` **Director técnico de la Sección de Apoyo Estadístico** (SAE), Servicio de Apoyo a la Investigación (SAI), Vicerrectorado de Investigación, Universidad de Murcia. Grupo A1, Facultativo de Estadística.
   * Miembro de la Comisión de Igualdad de la Universidad de Murcia (2/2017-s.d.)
-  * Miembro del Comité de Calidad del Servicio e Apoyo a la Investigación (2012- s.d.)
-  * Miembro del Comité de Autoevaluación del Servicio e Apoyo a la Investigación (2012-s.d.)
-  * Miembro de la Comisión Gestora del Servicio e Apoyo a la Investigación (2012-5/2016)
   * Blog del SAE: http://sae.saiblogs.inf.um.es/
   * http://www.um.es/web/sai/contenido/servicios/apoyo-estadistico
   * Paquetes estadísticos: R, SPSS, OO-Calc, GraphPad Prism, Minitab, AMOS. Rapidminer
@@ -48,12 +45,11 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programación: R, Python, Delphy, Java
+* Git, Markdown, Pandoc, awk
+* Estadística: R, Shiny, IBM SPSS, GraphPad prism, Minitab 
+* GNU/Linux: Xubuntu, SUSE, RedHat
+* Idiomas: Inglés (B2.3)
 
 Publications
 ======
@@ -75,4 +71,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* `2016` **ADIXMUR**, Vicepresidente de ADIXMUR: Asociación de Dislexia y otras dificultades de Aprendizaje de la Región de Murcia, <http://www.adixmur.org/>.
+* `2017` **UMUR**, Vicepresidente de UMUR: Asociación de Usuarios de R Murcia, <http://gauss.inf.um.es/umur/>.
+* `2019` **AlVelAl**, Vocal de la junta directiva. Competencias en Educación, Cultura y Turismo. AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.
+
+
