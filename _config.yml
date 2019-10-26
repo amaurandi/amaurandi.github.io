@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Antonio Maurandi López"
+title                    : "Professional website /Antonio Maurandi López"
 title_separator          : "-"
 name                     : &name "Antonio Maurandi López"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         : "<a href="https://www.um.es/">https://www.um.es/</a>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=NSRkDa8AAAAJ&hl=es"
-  email            :
+  email            :  "amaurandi@um.es"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
