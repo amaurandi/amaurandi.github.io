@@ -83,11 +83,11 @@ author:
   name             : "Antonio Maurandi López"
   avatar           : "profile.png"
   bio              : "Audentes fortuna iuvat"
-  location         : "Facultad de Educación, \n Universidad de Murcia.\n 30110 Campus de Espinardo, Murcia"
-  employer         : "https://www.um.es/"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Facultad de Educación, <br> Universidad de Murcia, Spain"
+  employer         : "<a href="https://www.um.es/">https://www.um.es/</a>"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=NSRkDa8AAAAJ&hl=es"
-  email            :
+  email            :  amaurandi@um.es
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/amaurandi"
+  github           : "amaurandi"
   google_plus      :
   keybase          :
   instagram        :
