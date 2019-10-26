@@ -13,7 +13,7 @@ name                     : &name "Antonio Maurandi López"
 description              : &description "personal description"
 url                      : https://amaurandi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "amaurandi/amaurandi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Audentes fortuna iuvat"
   location         : "Facultad de Educación, <br> Universidad de Murcia, Spain"
-  employer         : "<a href="https://www.um.es/">https://www.um.es/</a>"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  employer         : "<a href="https://www.um.es/">https://www.um.es/</a>"
+#  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=NSRkDa8AAAAJ&hl=es"
   email            :  amaurandi@um.es
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
