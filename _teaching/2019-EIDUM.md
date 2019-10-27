@@ -16,7 +16,7 @@ Desde el curso 2012/2013 dirijo e imparto varios cursos de la Escuela Internacio
 * **Diseño de Experimentos y Fundamentos de Análisis de Datos (III. Métodos de contraste de hipótesis y diseño de experimentos)**
 * **Diseño de Experimentos y Fundamentos de Análisis de Datos (II. Representación y tabulación de datos)**
     Este curso está accesible online aquí <http://gauss.inf.um.es/tabular/>
-    ![](https://amaurandi.github.io/files/tabular.png)
+    [![](https://amaurandi.github.io/files/tabular.png)](http://gauss.inf.um.es/tabular/)
 * **Diseño de Experimentos y Fundamentos de Análisis de Datos (IV. Métodos de Análisis de Datos Multivariantes)**
 * **Diseño de Experimentos y Fundamentos de Análisis de Datos (V. Creación, manejo y explotación de datos espaciales)**
 
