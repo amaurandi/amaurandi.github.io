@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
 * `5/2016` **Doctor por la Universidad de Murcia**, Mención Cum Laude, Titulo: _Clasificación de las actitudes parentales ante la vacunación pediátrica mediante técnicas de aprendizaje automático_, Directoras: Dra. M<sup>a</sup>. Dolores Pérez Cárceles y Dra. Laura Del Río Alonso. On-line: <http://hdl.handle.net/10803/396296>
 * `1993–1999` **Licenciado en Ciencias Matemáticas**, Universidad de Murcia, 300 créditos ECTS (RD 1416/1990). Estudios evaluados como Nivel 3 del MECES según el RD 967/2014.
@@ -22,7 +22,7 @@ Education
 * `2009–s.d` Máster en Métodos Cuantitativos para la Medicina Basada en la Evidencia, UNED, _(A falta de la tesis fin de máster)_.
 * `2001–s.d` Ingeniería Técnica en Informática de Gestión, UNED, _(60% superado)_
 
-Work experience
+Experiencia laboral
 ======
 * `10/2018–s.d.` **Profesor Contratado Doctor**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia. `7/2018–s.d.` Secretario del Departamento Didáctica de las Ciencias Matemáticas y Sociales.
   * <https://www.um.es/web/didactica-matematicas/>
@@ -43,7 +43,7 @@ Work experience
 * `2001–2002` **Programador**, Falk Medizinenische Datenverarbeitung, Lübeck, Alemania. 
   * Beca Leonardo da Vinci. Paquetes estadísticos para proceso de datos médicos. Programador Objetos. Herramientas utilizadas: Interbase, Delphi, S.O: Desarrollo de elementos de Programación para el Sector Médico (Apps de diagnostico médico, Gestión de expedientes y Explotación estadística de datos)
 
-Skills
+Habilidades (skills)
 ======
 * Programación: R, Python, Delphy, Java
 * Git, Markdown, LaTeX, Pandoc, awk
@@ -51,25 +51,25 @@ Skills
 * GNU/Linux: Xubuntu, SUSE, RedHat
 * Idiomas: Inglés (B2.3)
 
-Publications
+Publicaciiones
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Ponencias
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Docencia
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Asociacionismo
 ======
 * `2016` **ADIXMUR**, Vicepresidente de ADIXMUR: Asociación de Dislexia y otras dificultades de Aprendizaje de la Región de Murcia, <http://www.adixmur.org/>.
 * `2017` **UMUR**, Vicepresidente de UMUR: Asociación de Usuarios de R Murcia, <http://gauss.inf.um.es/umur/>.
