@@ -8,6 +8,11 @@ date: 2019-01-01
 location: "Universidad de Murcia"
 ---
 
+Desde el curso 2011/2012 he impartdo clase en todas las asignaturas del área en el titulo de "Grado Educación Primaria",
+ compartiendo grupo con varios profesores y profesras del área y desde el curso 2012017/18 con grupo propio.
+
+
+
 Matemáticas y su Didáctica I (12 ECTS)
 ====== 
 Cursos: 2016/17, 2017/18, 2018/19, 2019/20
