@@ -25,7 +25,7 @@ Desde el curso 2012/2013 he imparto clase en diversas asignaturas de Máster ofi
 * Dirección de Trabajos Fin de Máster
     * Cursos: 2017/18, 2018/19
 
-### Máster Universitario en Marketing Analítico y Digita
+### Máster Universitario en Marketing Analítico y Digital
 
 * Facultad de Economía y Empresa
 * Asignatura: <kbd>R Bootcamp</kbd> (3 ECTS) 
