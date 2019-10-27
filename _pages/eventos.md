@@ -7,9 +7,9 @@ redirect_from:
   - /eventos.html
 ---
 
+en construcción..
 
-
-## en construcción
+## en construcción..
 
 - `2016` **ADIXMUR**, Vicepresidente de ADIXMUR: Asociación de Dislexia y otras dificultades de Aprendizaje de la Región de Murcia, <http://www.adixmur.org/>.
     [![](https://amaurandi.github.io/files/adixmur.png)](https://adixmur.org/)
