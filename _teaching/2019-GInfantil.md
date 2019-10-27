@@ -9,7 +9,7 @@ location: "Universidad de Murcia"
 ---
 
 Desde el curso 2011/2012 he impartdo clase en todas las asignaturas del área en el titulo de "Grado Educación Infantil",
- compartiendo grupo con las profeosras M<sup>a</sup>. Dolres Saa Rojo y M<sup>a</sup>. Doloresd Carrillo Gallego
+ compartiendo grupo con las profeosras M<sup>a</sup>. Dolores Saa Rojo y M<sup>a</sup>. Dolores Carrillo Gallego.
 
 
 
