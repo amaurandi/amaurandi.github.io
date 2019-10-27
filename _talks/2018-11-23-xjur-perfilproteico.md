@@ -9,3 +9,6 @@ location: "Universidad de Murcia"
 ---
 
 Relación entre el pérfil protéico y el intervalo de la muerte en restos óseos humanos, Gemma Prieto Bonete, María Dolores Pérez Cárceles, Antonio Maurandi López y Aurelio Luna Maldonado, X Jornadas de Usuarios de R, Murcia, <http://r-es.org/XjuR/>.
+
+[![](https://amaurandi.github.io/files/3gemmaPrietoBonete-20181123-postee-xjur.png)](https://amaurandi.github.io/files/3gemmaPrietoBonete-20181123-postee-xjur.pdf)
+
