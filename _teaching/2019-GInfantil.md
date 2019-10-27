@@ -13,18 +13,18 @@ Desde el curso 2011/2012 he impartdo clase en todas las asignaturas del área en
 
 
 
-Didáctica de la Matemática Grado en Educación en la Educación Infantil I Infantil (6 ECTS)
-====== 
+### Didáctica de la Matemática Grado en Educación en la Educación Infantil I Infantil (6 ECTS)
+
 Cursos: 2017/18, 2018/19, 2019/20
 
-Didáctica de la Matemática en la Educación Infantil II (9 ECTS)
-======
+### Didáctica de la Matemática en la Educación Infantil II (9 ECTS)
+
 Cursos: 2017/18, 2018/19, 2019/20
 
-Prácticas Escolares III
-======
+### Prácticas Escolares III
+
 Cursos: 2011/12, 2012/13, 2013/14, 2014/15, 2015/16,  2016/17, 2017/18 
 
-Prácticas Escolares IV
-======
+### Prácticas Escolares IV
+
 Cursos:  2013/14
