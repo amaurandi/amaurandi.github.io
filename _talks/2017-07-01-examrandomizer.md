@@ -9,3 +9,7 @@ location: "UPV Universitat Politècnica de València"
 ---
 
 ExamRandomizeR: Una aplicación web para la generación de exámenes aleatorizados que faciliten situar el Examen como herramienta de aprendizaje y no solo de evaluación en el aula de matemáticas, Elvira Ferre Jáen, Laura Del Río Alonso y Antonio Maurandi López, III Congreso Nacional de Innovación Educativa y Docencia en Red (IN-RED 2017), Valencia <http://inred.blogs.upv.es/>
+
+
+[![](https://amaurandi.github.io/files/examRPoster-INRED2017c.png)](https://amaurandi.github.io/files/examRPoster-INRED2017c.pdf)
+
