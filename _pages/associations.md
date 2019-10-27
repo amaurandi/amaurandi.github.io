@@ -39,12 +39,13 @@ redirect_from:
 ### Histórico en asociaciones
 
 - `2011-2013` Comunidad R-Hispano, Vicepresidmete de la asociación Comunidad R-Hispano: La asociación de usuarios de R de España, <http://r-es.org/>.
-- `1998` ASEMAT, Miembro fundador de la ASEMAT Junior Empresa, Asociación de Estadística y Matemáticas, <www.um.es/asemat/>.
+- `1998` ASEMAT, Miembro fundador de la ASEMAT Junior Empresa, Asociación de Estadística y Matemáticas, <https://www.um.es/asemat/>.
 
 ## Otras asociaciones
 
 - `2012` Grupo de Investigación, Inclusión Social, Educación y Territorio (E051-09).
 - `2016` GIDMUR, Grupo de innovación docente multidisciplinar de la Universidad de Murcia, Resolución rectoral: R-622/2016 .
 - `2017` **Centro de Estudios sobre la Memoria Educativa**, <https://www.um.es/web/ceme/>. Universidad de Murcia
+    [![](https://amaurandi.github.io/files/ceme.gif)](https://www.um.es/web/ceme/)
 - `2012` **Miembro del Centro de Estudios de Cooperación al Desarrollo**, Universidad de Murcia <https://www.um.es/web/cecd/>.
 - `2017` **Miembro del Centro de Estudios de las Mujeres y de Género de la Universidad de Murcia**, Universidad de Murcia <https://www.um.es/web/unidad-igualdad>
