@@ -3,13 +3,13 @@ title: "Grado de Educación Primaria"
 collection: teaching
 type: "Docencia en grados"
 #permalink: /teaching/2014-spring-teaching-1
-venue: "Facultad de Educaciíon.  Área de Didáctica de la Matemática"
+venue: "Facultad de Educación.  Área de Didáctica de la Matemática"
 date: 2019-01-01
 location: "Universidad de Murcia"
 ---
 
-Desde el curso 2011/2012 he impartdo clase en todas las asignaturas del área en el titulo de "Grado Educación Primaria",
- compartiendo grupo con varios profesores y profesras del área y desde el curso 2012017/18 con grupo propio.
+Desde el curso 2011/2012 he imparto clase en todas las asignaturas del área en el titulo de "Grado Educación Primaria",
+ compartiendo grupo con varios profesores y profesoras del área y desde el curso 2012017/18 con grupo propio.
 
 
 

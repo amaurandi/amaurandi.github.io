@@ -8,14 +8,14 @@ date: 2019-01-01
 location: "Universidad de Murcia"
 ---
 
-Desde el curso 2012/2013 he impartdo clase en diversas asignaturas de Masters oficiales y dirigido Trabajos Fin de Máaster en varios de ellos.
+Desde el curso 2012/2013 he imparto clase en diversas asignaturas de Máster oficiales y dirigido Trabajos Fin de Máster en varios de ellos.
 
 
 
 ### Máster Universitario en Desarrollo Humano Sostenible e Intervención Social
 
 * Facultad de Educación
-* Asignatura Investigación Social Aplicada (3 ECTS): 
+* Asignatura: <kbd>Investigación Social Aplicada</kbd> (3 ECTS): 
     * Cursos: 2012/13, 2014/15
 * Dirección de Trabajos Fin de Máster
 
@@ -28,7 +28,7 @@ Desde el curso 2012/2013 he impartdo clase en diversas asignaturas de Masters of
 ### Máster Universitario en Marketing Analítico y Digita
 
 * Facultad de Economía y Empresa
-* Asignatura R Bootcamp (3 ECTS) 
+* Asignatura: <kbd>R Bootcamp</kbd> (3 ECTS) 
     * Cursos: 2019/20
 
 
