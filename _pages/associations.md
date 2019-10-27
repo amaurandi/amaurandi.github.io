@@ -18,6 +18,7 @@ redirect_from:
     [![](https://amaurandi.github.io/files/umur1.png)](http://gauss.inf.um.es/umur/about.html)
 
 - `2019` **AlVelAl**, Vocal de la junta directiva. Competencias en Educación, Cultura y Turismo. AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.
+    [![](https://amaurandi.github.io/files/alvelal.png)](https://www.alvelal.net/)
 
 ### Como socio
 
@@ -28,7 +29,7 @@ redirect_from:
 - `2017` AlVelAl, AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.
 
 - `2011-2013` Comunidad R-Hispano, La asociación de usuarios de R de España, <http://r-es.org/>.
-
+    [![](https://amaurandi.github.io/files/rhisp.png)](http://r-es.org/)
 - `2005-sd` Medicos sin Fronteras, Organización de acción médico-humanitaria, que asistea personas amenazadas por conflictos armados, violencia, epidemias o enfermedades olvidadas, desastres naturales y exclusión de la atención médica. <https://www.msf.es/>.
 
 - `1999-s.d.` CUMM, Club Universitario de Montaña de Murcia , <http://www.cumm.info/>.
