@@ -51,7 +51,7 @@ Habilidades (skills)
 * GNU/Linux: Xubuntu, SUSE, RedHat
 * Idiomas: Inglés (B2.3)
 
-Publicaciiones
+Publicaciones
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
