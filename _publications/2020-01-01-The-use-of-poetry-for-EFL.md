@@ -24,3 +24,5 @@ empirically tests the predominantly theoretical drive of work available to date;
 offering a systematic and holistic exploration of the potential advantages of poetry
 which goes beyond the methodologically inconsistent and fragmentary views offered by
 existing research.
+
+![](signos.png)
