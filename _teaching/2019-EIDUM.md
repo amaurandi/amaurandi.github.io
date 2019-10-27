@@ -11,7 +11,6 @@ location: "Universidad de Murcia"
 Desde el curso 2012/2013 dirijo e imparto varios cursos de la Escuela Internacional de Doctorado sobre "Diseño de Experimentos y Fundamentos de Análisis de Datos". Habitualmente comparto docencia con el Porfesor José Ant Palazon, las profesoras Laura del Río y Aurora González Vidal y con los profesor Fran Ibañez López, Elvira Ferre, etc...
 
 
-
 ### Procedimientos para la Elaboración de Informes y Documentos Científico-Técnicos
 ### Diseño de Experimentos y Fundamentos de Análisis de Datos (I. Métodos Estadísticos de Investigación: Introducción a R y Rstudio)
 ### Diseño de Experimentos y Fundamentos de Análisis de Datos (III. Métodos de contraste de hipótesis y diseño de experimentos)
@@ -21,6 +20,12 @@ Desde el curso 2012/2013 dirijo e imparto varios cursos de la Escuela Internacio
 
 
 
+* Procedimientos para la Elaboración de Informes y Documentos Científico-Técnicos
+* **Diseño de Experimentos y Fundamentos de Análisis de Datos (I. Métodos Estadísticos de Investigación: Introducción a R y Rstudio)**
+* **Diseño de Experimentos y Fundamentos de Análisis de Datos (III. Métodos de contraste de hipótesis y diseño de experimentos)**
+* Diseño de Experimentos y Fundamentos de Análisis de Datos (II. Representación y tabulación de datos)
+* Diseño de Experimentos y Fundamentos de Análisis de Datos (IV. Métodos de Análisis de Datos Multivariantes)
+* Diseño de Experimentos y Fundamentos de Análisis de Datos (V. Creación, manejo y explotación de datos espaciales)
 
 
 
