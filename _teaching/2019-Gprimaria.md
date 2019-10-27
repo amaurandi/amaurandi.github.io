@@ -13,14 +13,14 @@ Desde el curso 2011/2012 he impartdo clase en todas las asignaturas del área en
 
 
 
-Matemáticas y su Didáctica I (12 ECTS)
-====== 
+## Matemáticas y su Didáctica I (12 ECTS)
+
 Cursos: 2016/17, 2017/18, 2018/19, 2019/20
 
-Matemáticas y su Didáctica II (9 ECTS)
-======
+##  Matemáticas y su Didáctica II (9 ECTS)
+
 Cursos: 2012/13, 2013/14, 2014/15, 
 
-Prácticas Escolares II
-======
+## Prácticas Escolares II
+
 Cursos: 2011/12, 2012/13, 2013/14, 2014/15, 2015/16
