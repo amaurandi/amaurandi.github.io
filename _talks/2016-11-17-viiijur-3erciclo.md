@@ -11,3 +11,5 @@ location: "UCM, Albacete"
 Enseñanza de fundamentos de la investigación y análisis de datos en Tercer Ciclo. Evaluación de resultados de aprendizaje, Laura del Río Alonso,
 María Francisca Carreño Fructuoso, Elvira Ferre Jaén, Aurora González Vidal, Antonio Maurandi López, Álvaro Hernández Vicente, Fernando Pérez Sanz, Jose
 Antonio Palazón Ferrando, VIII Jornadas de Usuarios de R, Albacete, <http://r-es.org/8jornadasR/>.
+
+- <http://gauss.inf.um.es/8jornadasR/ponencias.html>

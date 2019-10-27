@@ -9,3 +9,5 @@ location: "UCM, Albacete"
 ---
 
 SAIC50. Aplicación Shiny para el cálculo de la dosis 50, Aurora González-Vidal, Antonio Maurandi-López, Antonia Bernabeu-Esclapez, Antonio J. Perán-Orcajada, VIII Jornadas de Usuarios de R, Albacete, <http://r-es.org/8jornadasR/>.
+
+- <http://gauss.inf.um.es/8jornadasR/ponencias.html>
