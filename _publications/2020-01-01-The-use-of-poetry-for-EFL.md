@@ -25,4 +25,4 @@ offering a systematic and holistic exploration of the potential advantages of po
 which goes beyond the methodologically inconsistent and fragmentary views offered by
 existing research.
 
-![](signos.png)
+![](https://amaurandi.github.io/files/signos.png)
