@@ -1,7 +1,7 @@
 ---
 title: "10 años de Jorandas de usuari@s de R en España"
 collection: talks
-type: "Talk"
+type: "Poster"
 #permalink: /talks/2012-03-01-talk-1
 venue: "X Jornadas de Usuarios de R"
 date: 2018-11-23
