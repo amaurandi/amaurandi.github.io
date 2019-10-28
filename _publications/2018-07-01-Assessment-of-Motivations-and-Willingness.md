@@ -3,10 +3,10 @@ title: " Assessment of Motivations and Willingness to Participate in Research of
 collection: publications
 #permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2018-07-01
+date: 2018-07-26
 venue: 'Journal of Empirical Research on Human Research Ethics'
 paperurl: 'http://journals.sagepub.com/doi/10.1177/1556264618789564'
-citation: 'Inés Morán-Sánchez, María D. Pérez-Cárceles, Antonio Maurandi-López, Assessment of Motivations and Willingness to Participate in Research of Outpatients With Anxiety, Mood, and Psychotic Disorders, <i>Journal of Empirical Research on Human Research Ethics</i>, 1-15,
+citation: 'Inés Morán-Sánchez, María D. Pérez-Cárceles, Antonio Maurandi-López, Assessment of Motivations and Willingness to Participate in Research of Outpatients With Anxiety, Mood, and Psychotic Disorders, <i>Journal of Empirical Research on Human Research Ethics</i>,(2018) 1-15,
 http://journals.sagepub.com/doi/10.1177/1556264618789564'
 ---
 

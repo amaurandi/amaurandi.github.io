@@ -3,10 +3,10 @@ title: "Consistency between indexers in the LILAC database (Latin American and C
 collection: publications
 #permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+date: 2013-12-04
 venue: 'Information Research'
 paperurl: 'http://InformationR.net/ir/18-4/paper601.html'
-citation: 'Moreno Fernández, L.M., Izquierdo Alonso, M., **Maurandi López, A**. & Vallés Valenzuela, J., "Consistency between indexers in the LILAC database (Latin American and Caribbean Health Science Literature)”, Information Research, 18(4), paper 601. [Available at <http://InformationR.net/ir/18-4/paper601.html>]'
+citation: 'Moreno Fernández, L.M., Izquierdo Alonso, M., Maurandi López, A. & Vallés Valenzuela, J., "Consistency between indexers in the LILAC database (Latin American and Caribbean Health Science Literature)”, Information Research (2013), 18(4), paper 601. [Available at <http://InformationR.net/ir/18-4/paper601.html>]'
 ---
 
 
