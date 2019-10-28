@@ -26,29 +26,29 @@ Experiencia laboral
 ======
 * `10/2018–s.d.` **Profesor Contratado Doctor**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia. `7/2018–s.d.` Secretario del Departamento Didáctica de las Ciencias Matemáticas y Sociales.
   * <https://www.um.es/web/didactica-matematicas/>
-* `9/2017-10/2018`  **Profesor Ayudante Doctor**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia. Acreditado por la ANECA como profesor contratado doctor y profesor de universidad privada (7/6/2018). 
-* `2005–9/2017` **Director técnico de la Sección de Apoyo Estadístico** (SAE), Servicio de Apoyo a la Investigación (SAI), Vicerrectorado de Investigación, Universidad de Murcia. Grupo A1, Facultativo de Estadística.
+* `9/2017-10/2018`  **Profesor Ayudante Doctor**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia.
+* `2005–9/2017` **Director técnico de la Sección de Apoyo Estadístico** (SAE), Servicio de Apoyo a la Investigación (SAI), Vicerrectorado de Investigación, Universidad de Murcia. Facultativo de Estadística.
   * Miembro de la Comisión de Igualdad de la Universidad de Murcia (2/2017-s.d.)
   * Blog del SAE: <http://sae.saiblogs.inf.um.es/>
   * <http://www.um.es/web/sai/contenido/servicios/apoyo-estadistico>
-  * Paquetes estadísticos: R, SPSS, OO-Calc, GraphPad Prism, Minitab, AMOS. Rapidminer
-  * Otras herramientas utilizadas: RStudio (con knitr), MS-Excel, Python, Java, Markdown, Pandoc, git.
+  * Paquetes estadísticos: <kbd>R, SPSS, OO-Calc, GraphPad Prism, Minitab, AMOS. Rapidminer.</kbd>
+  * Otras herramientas utilizadas: <kbd>RStudio (con knitr), MS-Excel, Python, Java, Markdown, Pandoc, git.</kbd>
 
 
 
 
-* `2012–9/2017`: **Profesor Asociado**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia. Acreditado como profesor Ayudante Doctor por la ANECA (17/2/2017).
+* `2012–9/2017`: **Profesor Asociado**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia.
 * `2003–2005`: **Técnico de Análisis y Planificación del a Información**. Coordinador del Departamento de Base de Datos y Estadística, RM-112. Dirección General de Seguridad Ciudadana y Emergencias, Tissat S.A, Murcia.
-  * Consultor tecnológico de base de datos. Oracle DBA. Tareas: Análisis de Datos y Desarrollo de Estadísticas. Especificaciones y análisis de aplicaciones con el cliente. Admon y desarrollo de ORACLE. Data Mining, DataWarehousing. Explotación y admon de Sybase, Interbase. Bajo entornos Linux, Win NT-2000 y Unix. Procesamiento de datos mediante Delphi, JAVA y los paquetes estadísticos SPSS, R.
+  * Consultor tecnológico de base de datos. Oracle DBA. Tareas: Análisis de Datos y Desarrollo de Estadísticas. Especificaciones y análisis de aplicaciones con el cliente. Admon y desarrollo de <kbd>ORACLE</kbd>. Data Mining, DataWarehousing. Explotación y admon de Sybase, Interbase. Bajo entornos <kbd>Linux, Win NT-2000 y Unix</kbd>. Procesamiento de datos mediante <kbd>Delphi, JAVA</kbd> y los paquetes estadísticos <kbd>SPSS, R</kbd>.
 * `2001–2002` **Programador**, Falk Medizinenische Datenverarbeitung, Lübeck, Alemania. 
-  * Beca Leonardo da Vinci. Paquetes estadísticos para proceso de datos médicos. Programador Objetos. Herramientas utilizadas: Interbase, Delphi, S.O: Desarrollo de elementos de Programación para el Sector Médico (Apps de diagnostico médico, Gestión de expedientes y Explotación estadística de datos)
+  * Beca Leonardo da Vinci. Paquetes estadísticos para proceso de datos médicos. Programador Objetos. Herramientas utilizadas: <kbd>Interbase, Delphi</kbd>. Desarrollo de elementos de Programación para el Sector Médico (Apps de diagnostico médico, Gestión de expedientes y Explotación estadística de datos)
 
 Habilidades (skills)
 ======
-* Programación: R, Python, Delphy, Java
-* Git, Markdown, LaTeX, Pandoc, awk
-* Estadística: R, Shiny, IBM SPSS, GraphPad prism, Minitab 
-* GNU/Linux: Xubuntu, SUSE, RedHat
+* Programación: <kbd>R, Python, Delphy, Java</kbd>
+* <kbd>Git, Markdown, LaTeX, Pandoc, awk</kbd>
+* Estadística: <kbd>R, Shiny, IBM SPSS, GraphPad prism, Minitab</kbd>
+* GNU/Linux: <kbd>Xubuntu, SUSE, RedHat</kbd>
 * Idiomas: Inglés (B2.3)
 
 Publicaciones
