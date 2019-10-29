@@ -6,6 +6,9 @@ main:
   - title: "Ponencias"
     url: /talks/    
 
+  - title: "Libros"
+    url: /libros/    
+
   - title: "Docencia"
     url: /teaching/    
     
