@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "associationism"
+title: "Associationism"
 permalink: /associationism/
 author_profile: true
 redirect_from:
