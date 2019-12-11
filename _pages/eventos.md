@@ -20,4 +20,19 @@ en construcción..
 - `2019` **AlVelAl**, Vocal de la junta directiva. Competencias en Educación, Cultura y Turismo. AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.
     [![](https://amaurandi.github.io/files/alvelal.png)](https://www.alvelal.net/)
 
+<https://www.slideshare.net/cmcontemporaneo/semana-ciencia-ies-floridablanca-1718/7>
+ies-flori-2017-18.png
+
+- mi tesis
+- visita rectror as SAE
+- presentacion del libro de Rendicion de cuenats
+- feir3
+- Curso hist CEME
+- xjur - foto husson + auro
+- xjur - inaguracion
+- xjur - entrevista maxima
+
+- alvelal semblante?
+- art de alvelan-de MJose
+
 
