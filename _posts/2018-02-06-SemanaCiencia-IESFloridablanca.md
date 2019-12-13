@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-Charla en la Semana de la Ciencia del IES Floridablanca <br> ![](https://amaurandi.github.io/files/sexiestjob.png)
+Charla divulgativa en la Semana de la Ciencia del IES Floridablanca <br> ![](https://amaurandi.github.io/files/sexiestjob.png) <br> `Ciencia de datos: El trabajo más sexy del siglo XXI`
 
 ![](https://amaurandi.github.io/files/ies-flori-2017-18.png)
 
