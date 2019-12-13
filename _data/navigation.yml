@@ -14,15 +14,15 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
-  - title: "Eventos 1"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
   - title: "Asociaciones"
     url: /associationism/
-    
+
   - title: "Eventos"
+    url: /year-archive/
+    
+  - title: "Eventos kk"
     url: /eventos/
