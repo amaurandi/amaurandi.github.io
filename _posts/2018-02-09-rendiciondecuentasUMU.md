@@ -1,7 +1,7 @@
 ---
 title: 'Presentación del libro de Rendición de cuentas I. Universidad de Murcia'
 date: 2018-02-09
-permalink: /posts/2018/02/rendicionCuentasUMU
+permalink: /posts/2018/02/rendicionCuentasUMU/
 tags:
   - cool posts
   - category1

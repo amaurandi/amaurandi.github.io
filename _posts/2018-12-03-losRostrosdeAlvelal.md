@@ -10,7 +10,7 @@ tags:
 
 [![](https://amaurandi.github.io/files/alvelal-logo.png)](https://www.alvelal.net/single-post/2018/12/13/Los-Rostros-de-AlVelAl-Antonio-Maurandi)
 
-Enlace directo: <https://www.alvelal.net/single-post/2018/12/13/Los-Rostros-de-AlVelAl-Antonio-Maurandi>
+Enlace al sitio web: <https://www.alvelal.net/single-post/2018/12/13/Los-Rostros-de-AlVelAl-Antonio-Maurandi>
 
 [![](https://amaurandi.github.io/files/semblantealvelal.png)](https://www.alvelal.net/single-post/2018/12/13/Los-Rostros-de-AlVelAl-Antonio-Maurandi) 
 

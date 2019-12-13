@@ -1,7 +1,7 @@
 ---
 title: 'Blog de MAXIMNA Formación: «X JORNADAS DE USUARIOS DE R» CON ANTONIO MAURANDI'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+date: 2018-11-20
+permalink: /posts/2018/11/entrevista-maximaF/
 tags:
   - cool posts
   - category1
