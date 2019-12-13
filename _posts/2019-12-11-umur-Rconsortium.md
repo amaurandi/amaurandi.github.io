@@ -1,14 +1,16 @@
 ---
-title: 'Foto y texto'
+title: 'UMUR en el bolg de RConsortium'
 date: 2019-12-11
-permalink: /posts/2019/12/blog-umur-rconsortium/
+permalink: /posts/2019/12/2019-12-11-umur-Rconsortium/
 tags:
   - cool posts
   - category1
   - category2
 ---
 
-UMUR en el bolg de RConsortium: [![](https://amaurandi.github.io/files/umur-pic-small.png)](https://www.r-consortium.org/blog/2019/12/11/uniting-local-r-users-in-spain-users-murcia-r-umur) foto y textoi foto y textoi foto y textoi y un salto aqui <br> despues del salto foto y textoifoto y textoifoto y textoi
+UMUR en el bolg de RConsortium: [![](https://amaurandi.github.io/files/umur-pic-small.png)](https://www.r-consortium.org/blog/2019/12/11/uniting-local-r-users-in-spain-users-murcia-r-umur) Signed: Aurora González-Vidal (president) and Antonio Maurandi (vice-president)
+
+Enlace directo: <https://www.r-consortium.org/blog/2019/12/11/uniting-local-r-users-in-spain-users-murcia-r-umur>
 
 [UMUR (Users Murcia R)](http://gauss.inf.um.es/umur/) is an association whose first official act was the organization of the [X National Spanish meeting of R users in Murcia (2018)](http://r-es.org/XjuR/) which established an inflection point in this annual meeting. We brought two amazing speakers: François Husson, who accompanied us, and Julia Silge, who participated by video call. Since then, we have been doing meetings every other month (workshops, talks…) with attendance of 35-45 people. We are trying not only to unite local people but also to provide them the chance to meet their references in the R community and make them participants in the R spirit. Recently we also had the opportunity to meet Max Kuhn, at the [XI National meeting of R users celebrated in Madrid (2019)](http://r-es.org/XIjuR/). 
 
