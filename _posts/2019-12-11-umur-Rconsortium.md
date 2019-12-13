@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-UMUR en el bolg de RConsortium: [![](https://amaurandi.github.io/files/umur-pic-small.png)](https://www.r-consortium.org/blog/2019/12/11/uniting-local-r-users-in-spain-users-murcia-r-umur) Signed: Aurora González-Vidal (president) and Antonio Maurandi (vice-president)
+UMUR en el bolg de RConsortium: [![](https://amaurandi.github.io/files/umur-pic-small.png)](https://www.r-consortium.org/blog/2019/12/11/uniting-local-r-users-in-spain-users-murcia-r-umur) <br> Signed: Aurora González-Vidal (president) and Antonio Maurandi (vice-president)
 
 Enlace directo: <https://www.r-consortium.org/blog/2019/12/11/uniting-local-r-users-in-spain-users-murcia-r-umur>
 
