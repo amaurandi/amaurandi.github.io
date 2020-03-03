@@ -24,12 +24,12 @@ ies-flori-2017-18.png
 
 - mi tesis
 - visita rectror as SAE
-- presentacion del libro de Rendicion de cuenats
+
 - feir3
 - Curso hist CEME
 - xjur - foto husson + auro
-- xjur - inaguracion
-- xjur - entrevista maxima
+
+
 
 - alvelal semblante?
 - art de alvelan-de MJose
