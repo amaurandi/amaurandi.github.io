@@ -1,12 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publicaciones"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Ponencias"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Libros"
+    url: /libros/    
+
+  - title: "Docencia"
     url: /teaching/    
     
 #  - title: "Portfolio"
@@ -18,5 +21,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Associationism"
+  - title: "Asociacionismo"
     url: /associationism/
+    
+  - title: "Eventos"
+    url: /eventos/
