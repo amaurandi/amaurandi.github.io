@@ -3,7 +3,7 @@ title: "The use of poetry for EFL: Exploring the beliefs of primary school train
 collection: publications
 #permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2020-04-01
+date: 2020-01-01
 venue: 'Revista SIGNOS. Estudios de Lingüística'
 paperurl: 'http://www.revistasignos.cl/index.php/signos/article/download/109/170'
 citation: 'Férez Mora, Pedro Antonio, Yvette Coyle y Maurandi-López, Antonio, The use of poetry for EFL: Exploring the beliefsof primary school trainee, <i>Revista SIGNOS. Estudios de Lingüística</i> 2020. 53(102) 56-79. DOI: 10.4067/S0718-
