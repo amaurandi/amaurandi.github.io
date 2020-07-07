@@ -22,9 +22,9 @@ redirect_from:
 
 ### Como socio
 
-- `2019` SEIEM - Sociedad Española de Investigación en Educación Matemática., <https://www.seiem.es/>  ![](https://amaurandi.github.io/files/seiem.jpg)
+- `2019` SEIEM - Sociedad Española de Investigación en Educación Matemática., <https://www.seiem.es/>  ![](https://amaurandi.github.io/files/seiem_s.jpg)
 
-- `2016` Sociedad de Educación Matemática de la Región de Murcia, <http://www.semrm.com/> ![](https://amaurandi.github.io/files/semrm.png)
+- `2016` Sociedad de Educación Matemática de la Región de Murcia, <http://www.semrm.com/> ![](https://amaurandi.github.io/files/semrm_s.png)
 
 
 - `2019` Asociación Viento Norte Sur, <https://www.vientonortesur.org/>  ![](https://amaurandi.github.io/files/Logo_VNS_Tampon_s.png)
