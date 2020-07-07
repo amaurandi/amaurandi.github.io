@@ -1,6 +1,6 @@
 ---
 permalink: /associationism/
-title: "Associationism"
+title: "Asociacionismo"
 author_profile: true
 redirect_from: 
   - /md/
