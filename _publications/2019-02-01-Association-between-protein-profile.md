@@ -3,7 +3,7 @@ title: "Association between protein profile and postmortem interval in human bon
 collection: publications
 #permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2018-08-23
+date: 2019-02-10
 venue: 'Journal of Proteomics'
 paperurl: 'https://www.researchgate.net/publication/327195208_Association_between_protein_profile_and_postmortem_interval_in_human_bone_remains'
 citation: 'Prieto-Bonete, Gemma & Pérez-Cárceles, María & Maurandi-López, Antonio & Pérez, Cristina & Luna, Aurelio. (2018). Association between protein profile and postmortem interval in human bone remains.  <i>Journal of Proteomics</i>. 192. 10.1016/j.jprot.2018.08.008.'
