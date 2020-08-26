@@ -3,7 +3,7 @@ title: "El cálculo y la medida en el primer grado de la escuela Decroly: Análi
 collection: publications
 #permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2020-08-21
+date: 2020-07-30
 venue: 'RECME-Revista Colombiana de Matemática Educativa'
 paperurl: 'http://ojs.asocolme.org/index.php/RECME/article/view/335/338'
 citation: 'Carrillo, D., Maurandi, A., Olivares, P. (2020).  El cálculo y la medida en el primer grado de la escuela Decroly: Análisis desde la Teoría Antropológica de lo Didáctico. RECME-Revista Colombiana de Matemática Educativa. 5 (1), pp. 13-24.'
