@@ -7,6 +7,10 @@ redirect_from:
   - /libros.html
 ---
 
+- **X Jornadas de usuari@s de R. Murcia 2018**, Antonio Maurandi López, Aurora González Vidal, DIGITUM, Biblioteca Universitaria de la Universidad de Murcia, 2020, ISBN: 978-84-09-16357-1. <http://hdl.handle.net/10201/94054>
+    ![](https://amaurandi.github.io/files/rendicionCuentas.png)
+
+
 - **Rendición de cuentas I. Universidad de Murcia**, Francisco Michavila, Jorge M. Martínez, María Sánchez-Canales, Verónica Salido Martínez, Guillermo Santiago Martínez, Antonio Maurandi López, Salvador Sánchez-Pedreño Guillén, Cátedra UNESCO de Gestión y Política Universitaria, 2018. Universidad de Murcia, 2018, ISBN: 978-84-697-9734-1.<http://www.um.es/web/universidad/rendicion-cuentas>
     ![](https://amaurandi.github.io/files/rendicionCuentas.png)
 
