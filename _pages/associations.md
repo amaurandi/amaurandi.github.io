@@ -11,21 +11,21 @@ redirect_from:
 
 ## Actividad en asociaciones no gubernamentales
 
-- `2016` **ADIXMUR**, Vicepresidente de ADIXMUR: Asociación de Dislexia y otras dificultades de Aprendizaje de la Región de Murcia, <http://www.adixmur.org/>.
+- `2016` **ADIXMUR**, Presidente de ADIXMUR: Asociación de Dislexia y otras dificultades de Aprendizaje de la Región de Murcia, <http://www.adixmur.org/>.
     [![](https://amaurandi.github.io/files/adixmur.png)](https://adixmur.org/)
-
-- `2017` **UMUR**, Vicepresidente de UMUR: Asociación de Usuarios de R Murcia, <http://gauss.inf.um.es/umur/>.
-    [![](https://amaurandi.github.io/files/umur1.png)](http://gauss.inf.um.es/umur/about.html)
 
 - `2019` **AlVelAl**, Vocal de la junta directiva. Competencias en Educación, Cultura y Turismo. AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.    
     [![](https://amaurandi.github.io/files/alvelal.png)](https://www.alvelal.net/)
+
+- `2017` **UMUR**, Vocal de UMUR: Asociación de Usuarios de R Murcia, <http://gauss.inf.um.es/umur/>.
+    [![](https://amaurandi.github.io/files/umur1.png)](http://gauss.inf.um.es/umur/about.html)
+
 
 ### Como socio
 
 - `2019` SEIEM - Sociedad Española de Investigación en Educación Matemática., <https://www.seiem.es/>  ![](https://amaurandi.github.io/files/seiem_s.jpg)
 
 - `2016` Sociedad de Educación Matemática de la Región de Murcia, <http://www.semrm.com/> ![](https://amaurandi.github.io/files/semrm_s.png)
-
 
 - `2019` Asociación Viento Norte Sur, <https://www.vientonortesur.org/>  ![](https://amaurandi.github.io/files/Logo_VNS_Tampon_s.png)
 
