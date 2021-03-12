@@ -34,7 +34,7 @@ redirect_from:
 - `2018-s.d.` Fundación Agua de Coco, Socio. Agua de Coco es una fundación que lleva desde 1994 dedicándose a la cooperación internacional y desde el 2018 a la sensibilización y educación al desarrollo. Lema: La educación como motor de desarrollo, <http://aguadecoco.org/>. ![](https://amaurandi.github.io/files/logoADC_s.png)
 
 
-- `2017` AlVelAl, AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.
+- `2017` AlVelAl, es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.
 
 - `2011-2013` Comunidad R-Hispano, La asociación de usuarios de R de España, <http://r-es.org/>.     
     [![](https://amaurandi.github.io/files/rhisp.png)](http://r-es.org/)
