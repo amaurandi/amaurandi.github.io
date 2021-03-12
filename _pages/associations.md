@@ -11,13 +11,13 @@ redirect_from:
 
 ## Actividad en asociaciones no gubernamentales
 
-- `2016` **ADIXMUR**, Presidente de ADIXMUR: Asociación de Dislexia y otras dificultades de Aprendizaje de la Región de Murcia, <http://www.adixmur.org/>.
+- `2020` **ADIXMUR**, Presidente de ADIXMUR: Asociación de Dislexia y otras dificultades de Aprendizaje de la Región de Murcia, <http://www.adixmur.org/>.
     [![](https://amaurandi.github.io/files/adixmur.png)](https://adixmur.org/)
 
 - `2019` **AlVelAl**, Vocal de la junta directiva. Competencias en Educación, Cultura y Turismo. AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.    
     [![](https://amaurandi.github.io/files/alvelal.png)](https://www.alvelal.net/)
 
-- `2017` **UMUR**, Vocal de UMUR: Asociación de Usuarios de R Murcia, <http://gauss.inf.um.es/umur/>.
+- `2021` **UMUR**, Vocal de UMUR: Asociación de Usuarios de R Murcia, <http://gauss.inf.um.es/umur/>.
     [![](https://amaurandi.github.io/files/umur1.png)](http://gauss.inf.um.es/umur/about.html)
 
 
@@ -47,6 +47,8 @@ redirect_from:
 
 ### Histórico en asociaciones  
 
+- `2017-2021` **UMUR**, Vicepresidente de UMUR: Asociación de Usuarios de R Murcia, <http://gauss.inf.um.es/umur/>.
+- `2016-2020` **ADIXMUR**, Vicepresidente de ADIXMUR: Asociación de Dislexia y otras dificultades de Aprendizaje de la Región de Murcia, <http://www.adixmur.org/>.
 - `2011-2013` Comunidad R-Hispano, Vicepresidmete de la asociación Comunidad R-Hispano: La asociación de usuarios de R de España, <http://r-es.org/>.
 - `1998` ASEMAT, Miembro fundador de la ASEMAT Junior Empresa, Asociación de Estadística y Matemáticas, <https://www.um.es/asemat/>.
 
