@@ -5,7 +5,7 @@ collection: publications
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-12-01
 venue: 'International journal of legal medicine'
-paperurl: 'https://link.springer.com/epdf/10.1007/s00414-020-02475-x?sharing_token=Q4zXLulCBU_y5Kg7BUeVI_e4RwlQNchNByi7wbcMAY47k3TPQs7O3AfLZ8YrDk0wb1UaH5VBvNAosY9FWBdfD7tDYc6yZN9XjmjFUek2vOl8b3PKt64Ezadrmq3b94OLD8j838T4exJnydYKR9eZA14NCbbslq_0yOj5mRjs6gA%3D'
+paperurl: 'https://link.springer.com/epdf/10.1007/s00414-020-02475-x'
 citation: 'Farnia, V., Bajoghli, H., Golshani, S. et al. Elder abuse among Spanish and Iranian people: new methodological approach to the same old story. Int J Legal Med (2021). https://doi.org/10.1007/s00414-020-02475-x.'
 ---
 
