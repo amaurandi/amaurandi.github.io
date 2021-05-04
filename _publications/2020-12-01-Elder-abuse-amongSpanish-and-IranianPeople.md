@@ -3,7 +3,7 @@ title: "Elder abuse among Spanish and Iranian people: new methodological approac
 collection: publications
 #permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2021-12-01
+date: 2020-12-01
 venue: 'International journal of legal medicine'
 paperurl: 'https://link.springer.com/epdf/10.1007/s00414-020-02475-x'
 citation: 'Farnia, V., Bajoghli, H., Golshani, S. et al. Elder abuse among Spanish and Iranian people: new methodological approach to the same old story. Int J Legal Med (2021). https://doi.org/10.1007/s00414-020-02475-x.'
