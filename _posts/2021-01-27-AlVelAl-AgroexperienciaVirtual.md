@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-[![](https://amaurandi.github.io/files/alvelal-AgroexperienciaVirtual-amaurandi.png)](https://www.youtube.com/watch?v=jUt7to12l30) <br> Agroexperiencia Virtual en Cortijo Nuevo (Vélez Rubio), con Antonio Maurandi
+[![](https://amaurandi.github.io/files/alvelal-AgroexperienciaVirtual-amaurandi-s.png)](https://www.youtube.com/watch?v=jUt7to12l30) <br> Agroexperiencia Virtual en Cortijo Nuevo (Vélez Rubio), con Antonio Maurandi
 
 Enlace directo: <https://www.youtube.com/watch?v=jUt7to12l30>
 
