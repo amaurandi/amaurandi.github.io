@@ -1,5 +1,5 @@
 ---
-title: 'AlVelAl Agroexperiencia Virtual en Cortijo Nuevo (Vélez Rubio)''
+title: 'AlVelAl Agroexperiencia Virtual en Cortijo Nuevo (Vélez Rubio)'
 date: 2021-01-27
 permalink: /posts/2021/01/2021-01-27-alvelal-agroexperiencia/
 tags:
