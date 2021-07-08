@@ -11,11 +11,11 @@ redirect_from:
 
 ## Actividad en asociaciones no gubernamentales
 
+- `2021` **AlVelAl**, Tesorero. Competencias en Educación, Cultura y Turismo. AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.    
+    [![](https://amaurandi.github.io/files/alvelal.png)](https://www.alvelal.net/)
+
 - `2020` **ADIXMUR**, Presidente de ADIXMUR: Asociación de Dislexia y otras dificultades de Aprendizaje de la Región de Murcia, <http://www.adixmur.org/>.
     [![](https://amaurandi.github.io/files/adixmur.png)](https://adixmur.org/)
-
-- `2019` **AlVelAl**, Vocal de la junta directiva. Competencias en Educación, Cultura y Turismo. AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.    
-    [![](https://amaurandi.github.io/files/alvelal.png)](https://www.alvelal.net/)
 
 - `2021` **UMUR**, Vocal de UMUR: Asociación de Usuarios de R Murcia, <http://gauss.inf.um.es/umur/>.
     [![](https://amaurandi.github.io/files/umur1.png)](http://gauss.inf.um.es/umur/about.html)
@@ -29,14 +29,11 @@ redirect_from:
 
 - `2019` Asociación Viento Norte Sur, <https://www.vientonortesur.org/>  ![](https://amaurandi.github.io/files/Logo_VNS_Tampon_s.png)
 
-
-
 - `2018-s.d.` Fundación Agua de Coco, Socio. Agua de Coco es una fundación que lleva desde 1994 dedicándose a la cooperación internacional y desde el 2018 a la sensibilización y educación al desarrollo. Lema: La educación como motor de desarrollo, <http://aguadecoco.org/>. ![](https://amaurandi.github.io/files/logoADC_s.png)
-
 
 - `2017` AlVelAl, es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.
 
-- `2011-2013` Comunidad R-Hispano, La asociación de usuarios de R de España, <http://r-es.org/>.     
+- `2011` Comunidad R-Hispano, La asociación de usuarios de R de España, <http://r-es.org/>.     
     [![](https://amaurandi.github.io/files/rhisp.png)](http://r-es.org/)
 
 - `2005-s.d.` Medicos sin Fronteras, Organización de acción médico-humanitaria, que asistea personas amenazadas por conflictos armados, violencia, epidemias o enfermedades olvidadas, desastres naturales y exclusión de la atención médica. <https://www.msf.es/>.
@@ -47,6 +44,7 @@ redirect_from:
 
 ### Histórico en asociaciones  
 
+- `2019-2021` **AlVelAl**, Vocal de la junta directiva. Competencias en Educación, Cultura y Turismo. AlVelAl es una iniciativa de 4 retornos que es apoyada por Commonland, <https://www.alvelal.net/>.
 - `2017-2021` **UMUR**, Vicepresidente de UMUR: Asociación de Usuarios de R Murcia, <http://gauss.inf.um.es/umur/>.
 - `2016-2020` **ADIXMUR**, Vicepresidente de ADIXMUR: Asociación de Dislexia y otras dificultades de Aprendizaje de la Región de Murcia, <http://www.adixmur.org/>.
 - `2011-2013` Comunidad R-Hispano, Vicepresidmete de la asociación Comunidad R-Hispano: La asociación de usuarios de R de España, <http://r-es.org/>.
