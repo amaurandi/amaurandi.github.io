@@ -3,9 +3,10 @@ title: 'Blog de MAXIMNA Formación: «X JORNADAS DE USUARIOS DE R» CON ANTONIO 
 date: 2018-11-20
 permalink: /posts/2018/11/entrevista-maximaF/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Rproject
+  - UMU
+  - UMUR
+  - Xjur
 ---
 
 [![](https://amaurandi.github.io/files/maximaF.png)](https://www.maximaformacion.es/blog-dat/x-jornadas-de-usuarios-de-r-con-antonio-maurandi/) 

@@ -3,9 +3,7 @@ title: 'Semana de la Ciencia IES Floridablanca, Murcia'
 date: 2018-02-06
 permalink: /posts/2018/02/2018-02-06-umur-Rconsortium/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Rproject
 ---
 
 Charla divulgativa en la Semana de la Ciencia del IES Floridablanca <br> ![](https://amaurandi.github.io/files/sexiestjob.png) <br> `Ciencia de datos: El trabajo más sexy del siglo XXI`

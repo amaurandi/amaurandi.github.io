@@ -3,9 +3,7 @@ title: 'La asociación AlvelAl convoca a los vecinos granadinos a unas jornadas 
 date: 2021-10-05
 permalink: /posts/2021/10/2021-10-05-EntrevistaOndaLocalAndalucia/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - AlVelAl
 ---
 
 [![](https://amaurandi.github.io/files/iora3.png)](https://amaurandi.github.io/files/asociacion-alvelal-vecinos-granada-211005.mp3) <br> 

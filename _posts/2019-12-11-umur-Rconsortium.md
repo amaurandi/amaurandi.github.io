@@ -3,9 +3,9 @@ title: 'UMUR en el bolg de RConsortium'
 date: 2019-12-11
 permalink: /posts/2019/12/2019-12-11-umur-Rconsortium/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Rproject
+  - UMU
+  - UMUR
 ---
 
 [![](https://amaurandi.github.io/files/umur-pic-small.png)](https://www.r-consortium.org/blog/2019/12/11/uniting-local-r-users-in-spain-users-murcia-r-umur) <br> Signed: Aurora González-Vidal (president) and Antonio Maurandi (vice-president)

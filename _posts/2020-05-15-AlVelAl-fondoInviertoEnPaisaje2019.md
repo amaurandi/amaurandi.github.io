@@ -3,9 +3,7 @@ title: 'AlVelAl Fondo Invierto en Paisaje, Invierto en Futuro'
 date: 2020-05-15
 permalink: /posts/2020/05/2020-05-15-alvelal-FIPIF/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - AlVelAl
 ---
 
 [![](https://amaurandi.github.io/files/alvelal-fondoIPIF-amaurandi.png)](https://www.youtube.com/watch?v=791StRkoF_U) <br> Fondo Invierto en Paisaje, Invierto en Futuro. Antonio Maurandi

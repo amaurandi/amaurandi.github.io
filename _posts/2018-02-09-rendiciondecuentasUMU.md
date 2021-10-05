@@ -3,9 +3,7 @@ title: 'Presentación del libro de Rendición de cuentas I. Universidad de Murci
 date: 2018-02-09
 permalink: /posts/2018/02/rendicionCuentasUMU/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - UMU
 ---
 
 Rendición de cuentas I. Universidad de Murcia <br> ![](https://amaurandi.github.io/files/rendicionCuentas.png)
