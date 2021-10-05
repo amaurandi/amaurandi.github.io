@@ -26,6 +26,3 @@ Enlace directo: <https://www.emartv.es/2021/10/05/asociacion-alvelal-vecinos-gra
 Para más información acerca de AlVelAl:  [www.alvelal.net](https://www.alvelal.net/)
 
 
-
-La asociación AlvelAl convoca a los vecinos granadinos a unas jornadas participativas con el objetivo de conocer su visión del territorio	
-
