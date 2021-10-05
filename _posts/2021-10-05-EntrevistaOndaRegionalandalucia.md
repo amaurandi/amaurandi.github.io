@@ -10,7 +10,7 @@ tags:
 
 [![](https://amaurandi.github.io/files/iora3.png)](https://amaurandi.github.io/files/asociacion-alvelal-vecinos-granada-211005.mp3) <br> 
 
-<a href="https://www.computerhope.com/jargon/m/example.mp3">Play sound file</a>
+
 
 La asociación AlvelAl convoca a los vecinos granadinos a unas jornadas participativas con el objetivo de conocer su visión del territorio	 <br>
 
