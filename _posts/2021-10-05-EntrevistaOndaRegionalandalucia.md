@@ -1,5 +1,5 @@
 ---
-title: 'Entrevista Onda Regional Andalucia. Antonio Maurandi'
+title: 'La asociación AlvelAl convoca a los vecinos granadinos a unas jornadas participativas con el objetivo de conocer su visión del territorio. Entrevista Onda Regional Andalucia (Antonio Maurandi)'
 date: 2021-10-05
 permalink: /posts/2021/10/2021-10-05-EntrevistaOndaRegionalAndalucia/
 tags:
