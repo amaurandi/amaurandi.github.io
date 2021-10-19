@@ -27,7 +27,9 @@ redirect_from:
 
 - `2016` Sociedad de Educación Matemática de la Región de Murcia, <http://www.semrm.com/> ![](https://amaurandi.github.io/files/semrm_s.png)
 
-- `2019` Asociación Viento Norte Sur, <https://www.vientonortesur.org/>  ![](https://amaurandi.github.io/files/Logo_VNS_Tampon_s.png)
+- `2018-s.d.` Fundación Agua de Coco, Socio. Agua de Coco es una fundación que lleva desde 1994 dedicándose a la cooperación internacional y desde el 2018 a la sensibilización y educación al desarrollo. Lema: La educación como motor de desarrollo, <http://aguadecoco.org/>. ![](https://amaurandi.github.io/files/logoADC_s.png)
+
+- `2021` Fundación Paisaje, <https://fundacionpaisaje.com/>  ![](https://amaurandi.github.io/files/FP-logo-100b.png)
 
 - `2018-s.d.` Fundación Agua de Coco, Socio. Agua de Coco es una fundación que lleva desde 1994 dedicándose a la cooperación internacional y desde el 2018 a la sensibilización y educación al desarrollo. Lema: La educación como motor de desarrollo, <http://aguadecoco.org/>. ![](https://amaurandi.github.io/files/logoADC_s.png)
 
