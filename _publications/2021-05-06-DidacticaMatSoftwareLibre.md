@@ -1,5 +1,5 @@
 ---
-title: "software libre y desarrollo de recursos mediante Learnr y Shiny"
+title: "Didáctica de las matemáticas, software libre y desarrollo de recursos mediante Learnr y Shiny"
 collection: publications
 date: 2021-05-06
 venue: 'EDUCATECONCIENCIA (2021)'
