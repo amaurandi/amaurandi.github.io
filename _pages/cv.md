@@ -48,7 +48,7 @@ Habilidades (skills)
 * Programación: <kbd>R, Python, Delphy, Java</kbd>
 * <kbd>Git, Markdown, LaTeX, Pandoc, awk</kbd>
 * Estadística: <kbd>R, Shiny, IBM SPSS, GraphPad prism, Minitab</kbd>
-* GNU/Linux: <kbd>Xubuntu, SUSE, RedHat</kbd>
+* GNU/Linux: <kbd>MX Linux, Xubuntu, SUSE, RedHat</kbd>
 * Idiomas: Inglés (B2.3)
 
 Publicaciones
