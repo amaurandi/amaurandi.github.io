@@ -24,7 +24,7 @@ Educación
 
 Experiencia laboral
 ======
-* `10/2018–s.d.` **Profesor Contratado Doctor**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia. `7/2018–s.d.` `Secretario del Departamento Didáctica de las Ciencias Matemáticas y Sociales`. 1^{er} Sexenio de Investigación [2011-2018].
+* `10/2018–s.d.` **Profesor Contratado Doctor**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia. `7/2018–s.d.` `Secretario del Departamento Didáctica de las Ciencias Matemáticas y Sociales`. 1<sup>er</sup> Sexenio de Investigación [2011-2018].
   * <https://www.um.es/web/didactica-matematicas/>
 * `9/2017-10/2018`  **Profesor Ayudante Doctor**, Departamento de Didáctica de las Ciencias Matemáticas y Sociales: Área de Didáctica de la Matemática, Facultad de Educación, Universidad de Murcia.
 * `2005–9/2017` **Director técnico de la Sección de Apoyo Estadístico** (SAE), Servicio de Apoyo a la Investigación (SAI), Vicerrectorado de Investigación, Universidad de Murcia. Facultativo de Estadística.
