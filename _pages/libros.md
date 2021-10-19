@@ -7,6 +7,13 @@ redirect_from:
   - /libros.html
 ---
 
+
+
+
+- **La investigación en tiempos de COVID-19. Capitulo VI: VI. Lenguaje R y enseñanza virtual de la Estadística: currículo oficial en España, propuestas y experiencias didácticas en confinamiento sanitario**, José Francisco Castejón  Mochón, José Ríos Carrillo, Encarnación  Sánchez  Jiménez, Antonio Maurandi López, Universidad  Tecnocientífica  del  Pacífico SC, 2021, ISBN 978-607-8759-15-6. <http://tecnocientifica.com.mx/editorial_tecnocie/index.php/editorialutp/catalog/book/13>)
+
+
+
 - **X Jornadas de usuari@s de R. Murcia 2018**, Antonio Maurandi López, Aurora González Vidal, DIGITUM, Biblioteca Universitaria de la Universidad de Murcia, 2020, ISBN: 978-84-09-16357-1. <http://hdl.handle.net/10201/94054>
     ![](https://amaurandi.github.io/files/xjornadasR2018.png)
 
