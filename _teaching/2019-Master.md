@@ -29,6 +29,6 @@ Desde el curso 2012/2013 he imparto clase en diversas asignaturas de Máster ofi
 
 * Facultad de Economía y Empresa
 * Asignatura: <kbd>R Bootcamp</kbd> (3 ECTS) 
-    * Cursos: 2019/20
+    * Cursos: 2019/20, 2020/21
 
 

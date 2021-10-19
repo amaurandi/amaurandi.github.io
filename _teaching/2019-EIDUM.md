@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "Universidad de Murcia"
 ---
 
-Desde el curso 2012/2013 dirijo e imparto varios cursos de la Escuela Internacional de Doctorado sobre "Diseño de Experimentos y Fundamentos de Análisis de Datos". Habitualmente comparto docencia con el Porfesor José Ant Palazon, las profesoras Laura del Río y Aurora González Vidal y con los profesores y profesoras: Fran Ibañez López, Elvira Ferre, Ana Belen Valverde M, Francisca Carreño, Fernendo Perez, Alvaro Vicente, etc... (<http://gauss.inf.um.es/00rteam.html>)
+Desde el curso 2012/2013 dirijo e imparto varios cursos de la `Escuela Internacional de Doctorado` sobre "Diseño de Experimentos y Fundamentos de Análisis de Datos". Habitualmente comparto docencia con el Porfesor José Ant Palazón, las profesoras Laura del Río y Aurora González Vidal y con los profesores y profesoras: Fran Ibañez López, Elvira Ferre, Ana Belen Valverde M, Francisca Carreño, Fernendo Perez, Alvaro Vicente, etc... (<http://gauss.inf.um.es/00rteam.html>)
 
 
 * **Procedimientos para la Elaboración de Informes y Documentos Científico-Técnicos**
