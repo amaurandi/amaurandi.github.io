@@ -6,7 +6,7 @@ tags:
   - AdixMur
 ---
 
-[![](https://amaurandi.github.io/files/20211116-INDIE4ALL-CT-Adixmur-02.jpg)](https://amaurandi.github.io/files/20211116-UPCT-en.pdf) <br> 
+![](https://amaurandi.github.io/files/20211116-INDIE4ALL-CT-Adixmur-02.jpg) <br> 
 
 
 
