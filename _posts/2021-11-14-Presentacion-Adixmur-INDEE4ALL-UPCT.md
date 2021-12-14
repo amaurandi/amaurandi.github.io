@@ -6,7 +6,7 @@ tags:
   - AdixMur
 ---
 
-![](https://amaurandi.github.io/files/20211116-INDIE4ALL-CT-Adixmur-02.jpg) <br> 
+![](https://amaurandi.github.io/files/20211116-INDIE4ALL-CT-Adixmur-02-small.jpg) <br> 
 
 
 
@@ -16,4 +16,11 @@ INDIE4ALl es el acronimo   Interactive Digital Content Platform for All
 
 
 Slides de la charla [aquí](https://amaurandi.github.io/files/20211116-UPCT-en.pdf) (english) y en [español](https://amaurandi.github.io/files/20211116-UPCT-es.pdf).
+
+
+
+![](https://amaurandi.github.io/files/20211116-INDIE4ALL-CT-Adixmur-01.jpg) <br> 
+
+![](https://amaurandi.github.io/files/20211116-INDIE4ALL-CT-Adixmur-02.jpg) <br> 
+
 
