@@ -8,7 +8,7 @@ venue: 'International Journal of Gynecology and Obstetrics'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S002072921100155X'
 citation: 'Martínez‐Beneyto, Y. , Vera‐Delgado, M. V., Pérez, L. and Maurandi, A. (2011), Self‐reported oral health and hygiene habits, dental decay, and periodontal condition among pregnant European women. <i>International Journal of Gynecology & Obstetrics</i>, 114: 18-22. <doi:10.1016/j.ijgo.2011.03.003>'
 ---
- JCR-Q1, SJR-Q2
+ JCR-Q1, SJR-Q2. <https://doi.org/10.1016/j.ijgo.2011.03.003>
 
 <a href="https://www.scimagojr.com/journalsearch.php?q=27521&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=27521" alt="SCImago Journal &amp; Country Rank"  /></a>
 
