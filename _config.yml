@@ -85,7 +85,7 @@ author:
   bio              : "Prof. Contratado Doctor, <br> Área de Didáctica de la Matemática.<br> Analista de Datos"
 #  location         : "Location"
   employer         :  "Facultad de Educación <br> Universidad de Murcia, España"
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%28maurandi-lopez%29+OR+%28maurandi%29%29+OR+%28Antonio+Maurandi%29%29%29+NOT+%28Maurandi+JL%29+NOT+%28Maurandi+MD%29%29+"
   googlescholar    : "https://scholar.google.es/citations?user=NSRkDa8AAAAJ&hl=es"
   email            : amaurandi@um.es
   researchgate     : https://www.researchgate.net/profile/Antonio-Maurandi
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  springer           : https://www.scopus.com/authid/detail.uri?authorId=55964623600
+  springer         : https://www.scopus.com/authid/detail.uri?authorId=55964623600
 
 # Reading Files
 include:
