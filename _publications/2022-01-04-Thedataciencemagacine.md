@@ -2,7 +2,7 @@
 title: "Manipulación de datos con el tidyverse: dplyr y tidyr"
 collection: publications
 date: 2022-01-04
-venue: 'Tha Data Science magacine'
+venue: 'Tha Data Science magacine (2022)'
 paperurl: 'https://amaurandi.github.io/files/N4TheDataScientistMagazine.pdf'
 citation: 'Aurora González Vidal y Antonio Maurandi López, Manipulación de datos con el tidyverse: dplyr y tidyr, Tha Data Science magacine, 4, 42-50, ISSN: 2792-3592
 ---
@@ -13,5 +13,4 @@ Resumén: Este artículo presenta los principios básicos del tidyverse de R, qu
 
 
 Descargar la revisa al compelto [aquí](https://amaurandi.github.io/files/N4TheDataScientistMagazine.pdf): 
-
 
