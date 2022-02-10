@@ -12,4 +12,6 @@ Abstract: Este artículo presenta los principios básicos del tidyverse de R, qu
 ![](https://amaurandi.github.io/files/datasciencemagacine1.png)
 
 
+Descargar la revisa al compelto [aquí](https://amaurandi.github.io/files/N4_The_Data_Scientist_Magazine.pdf): 
+
 
