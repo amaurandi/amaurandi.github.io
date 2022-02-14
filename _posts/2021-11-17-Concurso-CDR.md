@@ -15,7 +15,7 @@ Un día importante rodeqado de gente importatmnte también.
 
 ![](https://amaurandi.github.io/files/CDRtribunal01.jpeg) <br> 
 
-![](https://amaurandi.github.io/files/CDRvision-s.png)
+![](https://amaurandi.github.io/files/CDRvision.png)
 
 
 
