@@ -3,7 +3,7 @@ title: "Docencia práctica virtual y adquisición de competencias en la formaci�
 collection: publications
 #permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2012-02-08
+date: 2022-02-08
 venue: 'PNA. Revista de Investigación en Didáctica de la Matemática'
 paperurl: 'https://revistaseug.ugr.es/index.php/pna/article/view/21364'
 citation: 'Ibáñez-López,  F.  J.,  Maurandi-López,  A.  y  Castejón-Mochón,  J.  F.  (2022).  Docencia  práctica virtual  y  adquisición  de  competencias  en  la formación  estadística  de  maestros  durante  el confinamiento sanitario. PNA, 16 (2), 99-113'
