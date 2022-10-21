@@ -7,7 +7,8 @@ redirect_from:
   - /libros.html
 ---
 
-
+- **Análisis de datos y métodos estadísticos con R**. Maurandi López, A., y González Vidal, A.(Eds.). (2022). Análisis de datos y métodos estadísticos con R. Editum. Ediciones de la Universidad de Murcia. https://doi.org/10.6018/editum.2967>
+    ![](https://amaurandi.github.io/files/AdymeR-s.jpeg)
 
 
 - **La investigación en tiempos de COVID-19. Capitulo VI: VI. Lenguaje R y enseñanza virtual de la Estadística: currículo oficial en España, propuestas y experiencias didácticas en confinamiento sanitario**, José Francisco Castejón  Mochón, José Ríos Carrillo, Encarnación  Sánchez  Jiménez, Antonio Maurandi López, Universidad  Tecnocientífica  del  Pacífico SC, 2021, ISBN 978-607-8759-15-6. <http://tecnocientifica.com.mx/editorial_tecnocie/index.php/editorialutp/catalog/book/13>)
