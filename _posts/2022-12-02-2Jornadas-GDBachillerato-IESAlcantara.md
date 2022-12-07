@@ -8,20 +8,15 @@ tags:
 
 Charla divulgativa en las II Jornadas GD Bachillerato (Grupos de Desarrollo) del IES Alcantara (Alcantariall, Murcia) <br> ![](https://amaurandi.github.io/files/20221203-GDBachillerato-vi-small.png) <br> `¿Quién estudia Matemáticas?`
 
-
-![](https://amaurandi.github.io/files/20221203-GDBachillerato-ii.jpg)
-![](https://amaurandi.github.io/files/20221203-GDBachillerato-iii.jpg)
-![](https://amaurandi.github.io/files/20221203-GDBachillerato-iv.jpg)
-
-<!-- imágens sobre dislexia-->
-![](https://amaurandi.github.io/files/20221203-GDBachillerato-vii-small.png) ![](https://amaurandi.github.io/files/20221203-GDBachillerato-viii-small.png)
+<!-- imágenes sobre dislexia-->
+![](https://amaurandi.github.io/files/20221203-GDBachillerato-dislexia-small.png)
 
 
 [![](https://amaurandi.github.io/files/20221203-GDBachillerato-ix.png)](https://twitter.com/IesAlcantara/status/1598742421466222608?t=9zTo6PAW8wa9ssRIeBIk7A&s=35)
 
 Presentación [![(https://amaurandi.github.io/files/amaurandi-iesAlcantara.pdf)](https://amaurandi.github.io/files/amaurandi-iesAlcantara.pdf)](![](https://amaurandi.github.io/files/20221203-GDBachillerato-v-small.png))
 
-
-
-
+![](https://amaurandi.github.io/files/20221203-GDBachillerato-ii.jpg)
+![](https://amaurandi.github.io/files/20221203-GDBachillerato-iii.jpg)
+![](https://amaurandi.github.io/files/20221203-GDBachillerato-iv.jpg)
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-i-small.jpg)
