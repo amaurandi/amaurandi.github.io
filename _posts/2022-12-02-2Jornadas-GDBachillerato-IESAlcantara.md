@@ -19,4 +19,4 @@ Presentación [![(https://amaurandi.github.io/files/amaurandi-iesAlcantara.pdf)]
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-ii-small.jpg)
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-iii-small.jpg)
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-iv-small.jpg)
-![](https://amaurandi.github.io/files/20221203-GDBachillerato-i-small.jpg)
+[![](https://amaurandi.github.io/files/20221203-GDBachillerato-i-small.jpg)](https://amaurandi.github.io/files/20221202-Triptico-II-GD-BACHILLERATO.pdf)
