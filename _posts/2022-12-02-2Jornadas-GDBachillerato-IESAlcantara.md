@@ -18,8 +18,9 @@ Charla divulgativa en las II Jornadas GD Bachillerato (Grupos de Desarrollo) del
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-vi.png)
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-vii.png)
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-viii.png)
+[![](https://amaurandi.github.io/files/20221203-GDBachillerato-ix.png)](https://twitter.com/IesAlcantara/status/1598742421466222608?t=9zTo6PAW8wa9ssRIeBIk7A&s=35)
 
-Presentación [![](https://amaurandi.github.io/files/amaurandi-iesAlcantara.pdf)](https://amaurandi.github.io/files/amaurandi-iesAlcantara.pdf)
+Presentación ![(https://amaurandi.github.io/files/amaurandi-iesAlcantara.pdf)](https://amaurandi.github.io/files/amaurandi-iesAlcantara.pdf)
 
 
 
