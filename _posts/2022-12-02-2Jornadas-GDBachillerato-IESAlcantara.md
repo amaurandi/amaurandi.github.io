@@ -6,7 +6,7 @@ tags:
   - Rproject
 ---
 
-Charla divulgativa en las II Jornadas GD Bachillerato (Grupos de Desarrollo) del IES Alcantara (Alcantariall, Murcia) <br> ![](https://amaurandi.github.io/files/20221203-GDBachillerato-vi-small.png) <br> `¿Quién estudia Matemáticas?`
+Charla divulgativa en las II Jornadas GD Bachillerato (Grupos de Desarrollo) del IES Alcantara (Alcantarilla, Murcia) <br> ![](https://amaurandi.github.io/files/20221203-GDBachillerato-vi-small.png) <br> `¿Quién estudia Matemáticas?`
 
 <!-- imágenes sobre dislexia-->
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-dislexia-small.png)
