@@ -10,7 +10,7 @@ Charla divulgativa en las II Jornadas GD Bachillerato (Grupos de Desarrollo) del
 
 
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-ii.jpg  =100x)
-![](https://amaurandi.github.io/files/20221203-GDBachillerato-iii.jpg)
+![](https://amaurandi.github.io/files/20221203-GDBachillerato-iii.jpg  =50x)
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-iv.jpg)
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-v.png)
 
