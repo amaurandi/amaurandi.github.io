@@ -13,7 +13,7 @@ Charla divulgativa en las II Jornadas GD Bachillerato (Grupos de Desarrollo) del
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-iii.jpg)
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-iv.jpg)
 
-
+<!-- imágens sobre dislexia-->
 ![](https://amaurandi.github.io/files/20221203-GDBachillerato-vii-small.png) ![](https://amaurandi.github.io/files/20221203-GDBachillerato-viii-small.png)
 
 
