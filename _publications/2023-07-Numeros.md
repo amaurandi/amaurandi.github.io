@@ -4,7 +4,7 @@ collection: publications
 #permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-07-11
-venue: 'Numeros, Revista de Didáctica de las Matemáticas'
+venue: 'Números, Revista de Didáctica de las Matemáticas'
 paperurl: 'https://drive.google.com/file/d/1gDdjs3oMryZxY6OG320ij_SsdOE1JQ8k/view'
 citation: 'M. D. Saá Rojo, D. Carrillo Gallego, J. Dólera Almaida, F. J. Ibáñez-López, A. Maurandi-López, E. Sánchez Jiménez (2023). Estrategias en la formación matemático-didáctica de los estudiantes del Grado en E. Infantil. Números. Revista de Didáctica de las Matemáticas, 114, 23–41. https://doi.org/10.6018/educatio.512331'
 ---
